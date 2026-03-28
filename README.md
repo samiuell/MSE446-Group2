@@ -1,1 +1,2 @@
-# MSE446-Group2
+# MSE446 - Term Project - Group2
+
